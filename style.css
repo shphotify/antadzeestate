@@ -1,3 +1,49 @@
+@font-face {
+  font-family: "KorinthSerial-Bold";
+  src: url("/Karina.woff2") format("woff2"),
+       url("Karina.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KorinthSerial-XboldItalic";
+  src: url("/Karina.woff2") format("woff2"),
+       url("/Karina.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SF Pro Text-Regular";
+  src: url("/Karina.woff2") format("woff2"),
+       url("/Karina.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro Text-Medium";
+  src: url("/path/to/font/SFProText-Medium.woff2") format("woff2"),
+       url("/path/to/font/SFProText-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+.frame .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.95px;
+  font-family: "KorinthSerial-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30.3px;
+  letter-spacing: -0.61px;
+  line-height: 30.3px;
+  white-space: nowrap;
+}
+
+
 .frame {
   background-color: transparent;
   display: flex;
