@@ -7,7 +7,7 @@
 }
 
 .frame .overlap-group-wrapper {
-  background-image: url(./img/frame-1.png);
+  background-image: url(./frame-1.png);
   background-size: cover;
   background-position: 50% 50%;
   width: 900px;
@@ -17,7 +17,7 @@
 .frame .overlap-group {
   position: relative;
   height: 1600px;
-  background-image: url(./img/tato-1.png);
+  background-image: url(./tato-1.png);
   background-size: cover;
   background-position: 50% 50%;
 }
