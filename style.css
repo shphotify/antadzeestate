@@ -1,0 +1,183 @@
+.frame {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-group-wrapper {
+  background-image: url(./img/image.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 900px;
+  height: 1600px;
+}
+
+.frame .overlap-group {
+  position: relative;
+  height: 1600px;
+  background-image: url(./img/tato-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .div {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 15.13px;
+  position: absolute;
+  top: 793px;
+  left: 117px;
+}
+
+.frame .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.95px;
+  font-family: "KorinthSerial-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30.3px;
+  letter-spacing: -0.61px;
+  line-height: 30.3px;
+  white-space: nowrap;
+}
+
+.frame .div-2 {
+  display: flex;
+  flex-direction: column;
+  width: 430.22px;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+}
+
+.frame .text-wrapper-2 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -0.95px;
+  font-family: "KorinthSerial-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30.3px;
+  letter-spacing: -0.61px;
+  line-height: 30.3px;
+}
+
+.frame .renowned-science-and {
+  position: relative;
+  align-self: stretch;
+  font-family: "KorinthSerial-XboldItalic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 30.3px;
+  letter-spacing: -0.61px;
+  line-height: 30.3px;
+}
+
+.frame .div-3 {
+  display: flex;
+  flex-direction: column;
+  width: 771px;
+  align-items: flex-start;
+  gap: 8px;
+  position: absolute;
+  top: 303px;
+  left: 60px;
+}
+
+.frame .p {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "KorinthSerial-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 30.3px;
+  letter-spacing: -0.61px;
+  line-height: 78.5px;
+}
+
+.frame .a-color-computer {
+  position: relative;
+  width: 798px;
+  margin-right: -27.39px;
+  font-family: "KorinthSerial-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 60.5px;
+  letter-spacing: -1.21px;
+  line-height: 60.5px;
+}
+
+.frame .div-4 {
+  display: flex;
+  width: 771px;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  top: 60px;
+  left: 60px;
+}
+
+.frame .antadze-estate {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "KorinthSerial-XboldItalic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 60.5px;
+  letter-spacing: -1.21px;
+  line-height: 60.5px;
+}
+
+.frame .div-5 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 15.07px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #1db954;
+  border-radius: 12px;
+}
+
+.frame .div-6 {
+  position: relative;
+  width: 75px;
+  height: 76px;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #ffffff66;
+  box-shadow: inset 0px 4px 4px #ffffff40;
+  background-image: url(./img/frame-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .uwamlod-ver-mdzinavs {
+  position: relative;
+  width: 244px;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22.6px;
+  letter-spacing: -0.68px;
+  line-height: 28.3px;
+}
+
+.frame .span {
+  letter-spacing: -0.15px;
+}
+
+.frame .text-wrapper-3 {
+  font-family: "SF Pro Text-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: -0.15px;
+}
