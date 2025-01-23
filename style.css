@@ -7,7 +7,7 @@
 }
 
 .frame .overlap-group-wrapper {
-  background-image: url(./image.png);
+  background-image: url(./img/frame-1.png);
   background-size: cover;
   background-position: 50% 50%;
   width: 900px;
@@ -17,7 +17,7 @@
 .frame .overlap-group {
   position: relative;
   height: 1600px;
-  background-image: url(./tato-1.png);
+  background-image: url(./img/tato-1.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -148,17 +148,11 @@
   border-radius: 12px;
 }
 
-.frame .div-6 {
+.frame .rectangle {
   position: relative;
-  width: 75px;
+  width: 76px;
   height: 76px;
-  border-radius: 8px;
-  border: 1px solid;
-  border-color: #ffffff66;
-  box-shadow: inset 0px 4px 4px #ffffff40;
-  background-image: url(./img/frame-1.png);
-  background-size: cover;
-  background-position: 50% 50%;
+  object-fit: cover;
 }
 
 .frame .uwamlod-ver-mdzinavs {
