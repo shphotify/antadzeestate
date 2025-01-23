@@ -7,11 +7,11 @@
 }
 
 @font-face {
-  font-family: "KorinthSerial-XboldItalic";
+  font-family: "KorinthSerial-Xboldnormal";
   src: url("/Karina.woff2") format("woff2"),
        url("/Karina.woff") format("woff");
   font-weight: bold;
-  font-style: italic;
+  font-style: normal;
 }
 
 @font-face {
@@ -114,9 +114,9 @@
 .frame .renowned-science-and {
   position: relative;
   align-self: stretch;
-  font-family: "KorinthSerial-XboldItalic", Helvetica;
+  font-family: "KorinthSerial-Xboldnormal", Helvetica;
   font-weight: 400;
-  font-style: italic;
+  font-style: normal;
   color: #ffffff;
   font-size: 30.3px;
   letter-spacing: -0.61px;
@@ -138,9 +138,9 @@
   position: relative;
   align-self: stretch;
   margin-top: -1.00px;
-  font-family: "KorinthSerial-BoldItalic", Helvetica;
+  font-family: "KorinthSerial-Boldnormal", Helvetica;
   font-weight: 700;
-  font-style: italic;
+  font-style: normal;
   color: #ffffff;
   font-size: 30.3px;
   letter-spacing: -0.61px;
@@ -173,9 +173,9 @@
   position: relative;
   width: fit-content;
   margin-top: -1.00px;
-  font-family: "KorinthSerial-XboldItalic", Helvetica;
+  font-family: "KorinthSerial-Xboldnormal", Helvetica;
   font-weight: 400;
-  font-style: italic;
+  font-style: normal;
   color: #ffffff;
   font-size: 60.5px;
   letter-spacing: -1.21px;
